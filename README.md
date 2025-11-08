@@ -14,11 +14,10 @@
 
 **Autores:**  
 Eduardo Souza - eduardo.gomesferreira@ufrpe.br  
-Rodrigo Santana - rodrigo.sousasantana@ufrpe.br  
-Victor Souza - victor.souzaa@ufrpe.br  
-Roberto Leite - roberto.opleite@ufrpe.br  
 Matheus Sales - matheus.costasales@ufrpe.br  
-
+Roberto Leite - roberto.opleite@ufrpe.br
+Rodrigo Santana - rodrigo.sousasantana@ufrpe.br 
+Victor Souza - victor.souzaa@ufrpe.br  
 
 **Orientador:**  
 Rodrigo Gabriel Ferreira Soares
@@ -26,7 +25,6 @@ Rodrigo Gabriel Ferreira Soares
 
 **Recife**  
 Março de 2025
-
 
 # **Resumo** 
 
